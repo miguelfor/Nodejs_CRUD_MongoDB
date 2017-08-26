@@ -1,0 +1,14 @@
+{
+  "name": "conexion_mongodb",
+  "version": "1.0.0",
+  "description": "exaNPLE MONGODB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mIGUELFOR",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.31"
+  }
+}
